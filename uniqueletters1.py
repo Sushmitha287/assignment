@@ -1,0 +1,7 @@
+a=input()        #removing duplicates by using set(type casting)
+b=set(a)
+print(b)
+c="".join(b)
+d=len(c)
+print(c)
+print(d)
